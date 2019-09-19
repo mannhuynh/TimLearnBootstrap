@@ -1,2 +1,1 @@
-# TimLearnBootstrap
-Learning Bootstrap from Angela
+TinDog Starting Files
